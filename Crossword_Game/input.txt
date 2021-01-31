@@ -1,0 +1,9 @@
+15 15 8
+1 H 1 6 LAKERS current team of lebron
+2 H 3 1 THOMPSON Number 11 on the Warriors?
+3 H 7 6 BULLS Chicago's Team Name
+4 H 9 5 KERR Coach for the warriors
+5 V 1 8 KINGS Sacramento's team name
+6 V 1 10 RAPTORS Who won the NBA finals last year?
+7 V 3 3 ON Not off
+8 V 6 7 CURRY Number 30 for the Warriors
